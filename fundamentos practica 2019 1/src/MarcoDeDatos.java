@@ -342,4 +342,8 @@ public class MarcoDeDatos {
     public int conteo(){
        return datos.size();
     }
+
+    public int actualizacion(){
+        return 1;
+    }
 }
